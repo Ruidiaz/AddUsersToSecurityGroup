@@ -13,6 +13,8 @@ PowerShell script that adds users to AD Security Group form the spreadsheet AddU
                     
 3. Now we have surname in one column and firstname in a different one. In order to combine them... =(C1&"."&B1)
    a) Source: https://support.office.com/en-us/article/Combine-text-from-two-or-more-cells-into-one-cell-81ba0946-ce78-42ed-b3c3-21340eb164a6
+   
+4. Create a .csv file (from excel) with 2 columns; AD Name and Security Group Access Profile - See
 
 ***Please see this case scenario is when receiving the list of users listed as SURNAME Firstname
 
